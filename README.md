@@ -36,3 +36,8 @@ python main.py
 ```
 
 ## Project Structure
+portfolio-optimizer/
+├── outputs/
+│   └── efficient_frontier.png
+├── portfolio_optimizer.py
+└── requirements.txt
